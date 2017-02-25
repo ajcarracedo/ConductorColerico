@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/CC_Assets/CC_Scenes/CC_Playground.unity
+  isLoaded: 1
+  isActive: 1
